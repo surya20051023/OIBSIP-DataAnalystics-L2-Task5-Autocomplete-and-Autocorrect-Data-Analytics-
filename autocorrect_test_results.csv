@@ -1,0 +1,21 @@
+Misspelled Word,Expected Word,PySpellChecker,Custom Levenshtein,PySpellChecker Correct,Custom Correct
+langauge,language,language,language,True,True
+recieve,receive,receive,relieve,True,False
+definately,definitely,definitely,definitely,True,True
+seperate,separate,separate,separate,True,True
+occured,occurred,occurred,occurred,True,True
+untill,until,until,until,True,True
+goverment,government,government,government,True,True
+enviroment,environment,environment,enviroment,True,False
+experiance,experience,experience,experience,True,True
+knowlege,knowledge,knowledge,knowledge,True,True
+acheive,achieve,achieve,archive,True,False
+begining,beginning,beginning,beginning,True,True
+beleive,believe,believe,believe,True,True
+adress,address,dress,address,False,True
+freind,friend,friend,friend,True,True
+wierd,weird,weird,were,True,False
+thier,their,their,the,True,False
+wich,which,with,with,False,False
+tommorow,tomorrow,tomorrow,tommorow,True,False
+studing,studying,studying,studying,True,True
